@@ -10,6 +10,6 @@ I tracked myself every day for about 6 weeks and wrote down stuff like how many 
 
 ## To-Do List
 
-- [x] Checkpoint 1 (Apr 14) - data collection, EDA, hypothesis testing
-- [ ] Checkpoint 2 (May 5) - machine learning
-- [ ] Final (May 18)
+- [x] Checkpoint 1  - data collection, EDA, hypothesis testing
+- [ ] Checkpoint 2  - machine learning
+- [ ] Final 
